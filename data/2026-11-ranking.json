@@ -1,0 +1,51 @@
+{
+  "month": "2026-11",
+  "updated_at": "2026-11-24T08:57:00+08:00",
+  "source": "https://pulse.deedee.tech/best",
+  "note": "Codex 榜取 GPT 主榜（Codex 走 OpenAI Responses 协议，与 GPT 用同一套统一标准实测）。",
+  "monthly_picks": {
+    "gpt": [
+      {"rank": 1, "station": "悦聚", "domain": "yangyue99.store", "group": "GPT 不降智", "multiplier": 0.12, "availability_7d": 97.8, "availability_30d": 98.0, "test_result": "通过", "test_date": "2026-10-22", "score": 92.9, "site_url": "https://pulse.deedee.tech/site/yangyue99.store"},
+      {"rank": 2, "station": "NC API", "domain": "ncncapi.top", "group": "GPT-Pro-正价", "multiplier": 0.2, "availability_7d": 100.0, "availability_30d": 100.0, "test_result": "通过", "test_date": "2026-10-22", "score": 92.8, "site_url": "https://pulse.deedee.tech/site/ncncapi.top"},
+      {"rank": 3, "station": "pulseaify.com", "domain": "pulseaify.com", "group": "【0.1x】ChatGPT【特惠不降智】", "multiplier": 0.1, "availability_7d": 98.4, "availability_30d": 97.9, "test_result": "通过", "test_date": "2026-11-01", "score": 91.5, "site_url": "https://pulse.deedee.tech/site/pulseaify.com"},
+      {"rank": 4, "station": "www.aisale.best", "domain": "www.aisale.best", "group": "GPT 通用", "multiplier": 0.18, "availability_7d": 99.2, "availability_30d": 99.2, "test_result": "通过", "test_date": "2026-10-29", "score": 91.4, "site_url": "https://pulse.deedee.tech/site/www.aisale.best"},
+      {"rank": 5, "station": "www.ai2api.online", "domain": "www.ai2api.online", "group": "pro", "multiplier": 0.18, "availability_7d": 98.9, "availability_30d": 98.6, "test_result": "通过", "test_date": "2026-11-15", "score": 90.7, "site_url": "https://pulse.deedee.tech/site/www.ai2api.online"},
+      {"rank": 6, "station": "ai.tokensfree.xyz", "domain": "ai.tokensfree.xyz", "group": "Pro", "multiplier": 0.17, "availability_7d": 99.6, "availability_30d": 97.9, "test_result": "通过", "test_date": "2026-10-26", "score": 90.4, "site_url": "https://pulse.deedee.tech/site/ai.tokensfree.xyz"}
+    ],
+    "codex": "same as gpt (Codex 榜取 GPT 主榜）",
+    "empty_this_month": ["Claude Code", "便宜 Claude", "Gemini", "Grok"]
+  },
+  "top_by_model": {
+    "updated_at": "2026-11-24T08:27:00+08:00",
+    "source": "https://pulse.deedee.tech/",
+    "claude": [
+      {"station": "chenshuapi.com", "tier": "能用", "multiplier": 0.02, "availability_7d": 98.8, "availability_30d": 97.9, "site_url": "https://pulse.deedee.tech/site/chenshuapi.com"},
+      {"station": "bya.re", "tier": "能用", "multiplier": 0.042, "availability_7d": 99.5, "availability_30d": 97.1, "site_url": "https://pulse.deedee.tech/site/bya.re"},
+      {"station": "cf.dzhsmartai.com", "tier": "能用", "multiplier": 0.06, "availability_7d": 98.2, "availability_30d": 97.0, "site_url": "https://pulse.deedee.tech/site/cf.dzhsmartai.com"}
+    ],
+    "gpt": [
+      {"station": "api.cenai.top", "tier": "推荐", "multiplier": 0.065, "availability_7d": 95.2, "availability_30d": 98.2, "site_url": "https://pulse.deedee.tech/site/api.cenai.top"},
+      {"station": "sub.baiyuapi.xyz", "tier": "推荐", "multiplier": 0.07, "availability_7d": 99.3, "availability_30d": 99.0, "site_url": "https://pulse.deedee.tech/site/sub.baiyuapi.xyz"},
+      {"station": "api.yunqing.asia", "tier": "推荐", "multiplier": 0.1, "availability_7d": 96.4, "availability_30d": 97.0, "site_url": "https://pulse.deedee.tech/site/api.yunqing.asia"}
+    ],
+    "gemini": [
+      {"station": "api.new.bi", "tier": "能用", "multiplier": 1.0, "availability_7d": 96.9, "availability_30d": 56.9, "site_url": "https://pulse.deedee.tech/site/api.new.bi"},
+      {"station": "worldcodes.online", "tier": "能用", "multiplier": 0.25, "availability_7d": 92.0, "availability_30d": 92.3, "site_url": "https://pulse.deedee.tech/site/worldcodes.online"},
+      {"station": "linkapi.ai", "tier": "能用", "multiplier": 0.5, "availability_7d": 91.9, "availability_30d": 97.6, "site_url": "https://pulse.deedee.tech/site/linkapi.ai"}
+    ],
+    "grok": [
+      {"station": "sub.baiyuapi.xyz", "tier": "推荐", "multiplier": 0.2, "availability_7d": 99.7, "availability_30d": 99.6, "site_url": "https://pulse.deedee.tech/site/sub.baiyuapi.xyz"},
+      {"station": "api.cenai.top", "tier": "能用", "multiplier": 0.3, "availability_7d": 96.7, "availability_30d": 95.2, "site_url": "https://pulse.deedee.tech/site/api.cenai.top"},
+      {"station": "p.icodex.cc", "tier": "能用", "multiplier": 0.38, "availability_7d": 98.1, "availability_30d": 96.9, "site_url": "https://pulse.deedee.tech/site/p.icodex.cc"}
+    ]
+  },
+  "coverage": {
+    "updated_at": "2026-11-24T08:27:00+08:00",
+    "sites_indexed": 7462,
+    "sites_monitored": 1151,
+    "sites_with_availability": 804,
+    "groups_with_availability": 5878,
+    "sites_self_tested": 2070,
+    "sites_tested": 423
+  }
+}
