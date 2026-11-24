@@ -128,6 +128,7 @@ pulse/
 ## 参与与纠错
 
 - 数据有问题：到站内对应页面提交纠错，附链接、时间和最小复现步骤。
+- Telegram 频道：[t.me/deedeepulse](https://t.me/deedeepulse)（榜单更新）；讨论群：[t.me/deedeepulse_chat](https://t.me/deedeepulse_chat)。
 - 改本仓数据文件请附来源与日期。
 
 ## 注意
